@@ -5,3 +5,4 @@ sumy==0.11.0
 nltk==3.8.1
 python-dotenv==1.0.0
 newspaper3k==0.2.8 
+gunicorn
